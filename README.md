@@ -1,6 +1,7 @@
-### Simão José Mateus
+# Simão José Mateus
 
 <img align="right" src="assets/simon.gif" width="350"/>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Simão%20José-003140?style=flat-square&labelColor=003140&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/simaojosemateus/)](https://www.linkedin.com/in/simaojosemateus/)
