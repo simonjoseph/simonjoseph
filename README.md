@@ -9,8 +9,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-@simon_joseph-003140?style=flat-square&labelColor=003140&logo=twitter&logoColor=white&link=https://twitter.com/simon_joseph/)](https://twitter.com/simon_joseph/)
 
  Hi 👋! I’m Simão José Mateus, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
-
-
+ <a href='https://simonjoseph.github.io/portfolio/'>👉🚀 Portfolio</a>
+ 
 
 <!--
 My name is Simão José, Iam from Angola  🇦🇴 I'm a Programer, that has been working as a Front-end developer since 
