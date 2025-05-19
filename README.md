@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=3a86ff&size=35&width=800&lines=Desenvolvedor+Web+Full+Stack;Experiência+em+Front-end;De+Angola+para+o+Mundo+🇦🇴" />
   
   <div>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="200"/>
   </div>
   
   ## 🌐 Contatos & Redes Sociais
@@ -26,14 +26,14 @@
 
 ## 👨‍💻 Sobre Mim
 
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+
 Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar aplicações web limpas com funcionalidades intuitivas. Sou de Angola 🇦🇴 e trabalho como desenvolvedor Front-end.
 
 - 🔭 Atualmente estou trabalhando em projetos Full Stack
 - 🌱 Sempre aprendendo novas tecnologias e ferramentas
 - 👯 Procuro colaborar em projetos inovadores
 - 💬 Pergunte-me sobre desenvolvimento web e front-end
-
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -51,6 +51,8 @@ Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar apl
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
 </div>
+
+<img align="left" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="200"/>
 
 ## 📊 Estatísticas GitHub
 
@@ -72,6 +74,10 @@ Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar apl
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</div>
+
 ## 🏆 Troféus GitHub
 
 <div align="center">
@@ -87,6 +93,8 @@ Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar apl
   <!-- Você pode adicionar mais projetos destacados aqui -->
 </div>
 
+<img align="right" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
+
 ## 📌 Contribuições
 
 <div align="center">
@@ -96,6 +104,7 @@ Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar apl
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="200"/>
   <h3>💖 Obrigado pela visita!</h3>
   
   ![Snake animation](https://github.com/simonjoseph/simonjoseph/blob/output/github-contribution-grid-snake.svg)
