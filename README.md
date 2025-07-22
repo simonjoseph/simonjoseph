@@ -2,10 +2,10 @@
   
   # ✨ Simão José Mateus ✨
   
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=3a86ff&size=35&width=800&lines=Desenvolvedor+Web+Full+Stack;Experiência+em+Front-end;De+Angola+para+o+Mundo+🇦🇴" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=3a86ff&size=35&width=800&lines=Developer+Web+Full+Stack;Experiência+em+Front-end;From+Angola+to+Word+🇦🇴" />
   
   <div>
-    <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
   </div>
   
   ## 🌐 Contatos & Redes Sociais
