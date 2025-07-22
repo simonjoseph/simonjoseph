@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=simonjoseph&style=for-the-badge&color=blue" alt="Visualizações do Perfil"/>
 </div>
 
-## 👨‍💻 Sobre Mim
+<!-- ## 👨‍💻 Sobre Mim
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 
@@ -31,13 +31,13 @@ Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar apl
 - 🔭 Atualmente estou trabalhando em projetos Full Stack
 - 🌱 Sempre aprendendo novas tecnologias e ferramentas
 - 👯 Procuro colaborar em projetos inovadores
-- 💬 Pergunte-me sobre desenvolvimento web e front-end
+- 💬 Pergunte-me sobre desenvolvimento web e front-end -->
 
-## 🛠️ Tecnologias e Ferramentas
+<!-- ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,9 +46,9 @@ Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar apl
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](url)
   
-</div>
+</div> -->
 
 <img align="left" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="200"/>
 
