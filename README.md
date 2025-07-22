@@ -48,9 +48,9 @@ Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar apl
   ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](url)
   
-</div> -->
+</div>
 
-<img align="left" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="200"/>
+<img align="left" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="200"/> -->
 
 <div align="center">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="200"/>
