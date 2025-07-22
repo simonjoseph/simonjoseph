@@ -52,31 +52,6 @@ Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar apl
 
 <img align="left" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="200"/>
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=simonjoseph&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonjoseph&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=simonjoseph&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-</div>
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="200"/>
   <h3>💖 Obrigado pela visita!</h3>
