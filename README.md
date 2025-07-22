@@ -11,8 +11,6 @@
   ## 🌐 Contatos & Redes Sociais
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simaojosemateus/)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/simon_joseph/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simaojose1978@gmail.com)
   
   ### [👉 Veja meu Portfolio 🚀](https://simonjoseph.github.io/portfolio/)
@@ -77,35 +75,9 @@ Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar apl
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
 </div>
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simonjoseph&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
-## ⚡ Projetos Destacados
-
-<div align="center">
-  <a href="https://github.com/simonjoseph/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simonjoseph&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" />
-  </a>
-  <!-- Você pode adicionar mais projetos destacados aqui -->
-</div>
-
-<img align="right" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
-
-## 📌 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simonjoseph&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ---
 
 <div align="center">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="200"/>
   <h3>💖 Obrigado pela visita!</h3>
-  
-  ![Snake animation](https://github.com/simonjoseph/simonjoseph/blob/output/github-contribution-grid-snake.svg)
 </div>
