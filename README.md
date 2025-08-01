@@ -7,20 +7,24 @@
   <div>
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
   </div>
-  
-  ## 🌐 Contatos & Redes Sociais
-
+ <!-- 
+  ## 🌐 Contatos & Redes Sociais 
+  -->
+<!--
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simaojosemateus/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simaojose1978@gmail.com)
-  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simaojose1978@gmail.com) 
+  -->
+  <!--
   ### [👉 Veja meu Portfolio 🚀](https://simonjoseph.github.io/portfolio/)
 </div>
-
+-->
+<!--
 ---
-
+-->
+<!--
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=simonjoseph&style=for-the-badge&color=blue" alt="Visualizações do Perfil"/>
-</div>
+</div> -->
 
 <!-- ## 👨‍💻 Sobre Mim
 
@@ -52,7 +56,7 @@ Olá 👋! Eu sou Simão José Mateus, um desenvolvedor apaixonado por criar apl
 
 <img align="left" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="200"/> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="200"/>
   <h3>💖 Obrigado pela visita!</h3>
-</div>
+</div> -->
